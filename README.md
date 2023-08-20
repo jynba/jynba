@@ -93,10 +93,10 @@ If you have any questions, please contact me through the above way.
 
 <!-- 开源项目 -->
 <p align="left">
-  <a href="https://github.com/jynba/chat">
+  <a href="https://github.com/jynba/DJ_Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jynba&repo=DJ_Project&theme=radical" />
   </a>
-  <a href="https://github.com/jynba/management-system">
+  <a href="https://github.com/jynba/dxyy_project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jynba&repo=dxyy_project&theme=radical" />
   </a>
 </p>
