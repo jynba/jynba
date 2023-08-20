@@ -3,7 +3,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://stm32-mqtt.top">
-    <img src="./images/hello.svg">
+    <img src="./hello.svg">
   </a>
 </h1>
 
@@ -15,7 +15,7 @@
 
 
 <!-- 个人介绍 -->
-<img src="./images/welcomeglitch.gif" width="50px" />  to my homepage<img src="./images/giphy.webp" width="50">, I'm Xu Jiayu😄.
+welcome to my homepage , I'm Xu Jiayu😄.
 
 Love programming and sharing, and aspire to become a senior programmer.<img src="./images/bongocat.gif" width="50px" />
 
