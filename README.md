@@ -17,9 +17,9 @@
 <!-- 个人介绍 -->
 welcome to my homepage , I'm Xu Jiayu😄.
 
-Love programming and sharing, and aspire to become a senior programmer.<img src="./images/bongocat.gif" width="50px" />
+Love programming and sharing, and aspire to become a senior programmer.
 
-If you have any questions, please contact me through the above way.<img src="./images/chat.gif" height="35px" />
+If you have any questions, please contact me through the above way.
 
 
 <br />
