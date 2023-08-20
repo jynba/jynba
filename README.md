@@ -9,7 +9,7 @@
 
 <!-- 个人资料 -->
 <p align="center">
-  <a href="https://stm32-mqtt.top" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-stm32-mqtt.top-blue?style=flat&logo=google-chrome"></a>
+  <a href="https://stm32-mqtt.top" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-blue?style=flat&logo=google-chrome"></a>
   <a href="mailto:jyxu0529@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-jyxu0529%40gmail.com-%23FCA121?style=flat&logo=gmail"></a>
 </p>
 
