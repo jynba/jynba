@@ -92,6 +92,9 @@ If you have any questions, please contact me through the above way.
   <a href="https://github.com/jynba/DJ_Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jynba&repo=DJ_Project&theme=radical" />
   </a>
+    <a href="https://github.com/jynba/chess_project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jynba&repo=chess_project&theme=radical" />
+  </a>
   <a href="https://github.com/jynba/dxyy_project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jynba&repo=dxyy_project&theme=radical" />
   </a>
