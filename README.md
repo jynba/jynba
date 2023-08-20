@@ -44,6 +44,7 @@ If you have any questions, please contact me through the above way.
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/jynba)](https://github.com/jynba) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/jynba)](https://github.com/jynba)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/jynba)](https://github.com/jynba)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/jynba)](https://github.com/jynba)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/jynba)](https://github.com/jynba) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/jynba)](https://github.com/jynba)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/jynba)](https://github.com/jynba) 
