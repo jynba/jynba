@@ -17,18 +17,7 @@
 <!-- 个人介绍 -->
 welcome to my homepage , I'm Xu Jiayu😄.
 
-Love programming and sharing, and aspire to become a senior programmer.
-
 If you have any questions, please contact me through the above way.
-
-
-<br />
-
-# Notice
-
-<li>Other warehouse codes are being migrated to GitHub</li>
-
-<br />
 
 <!-- 个人技能&工具介绍 -->
 # Languages and Tools
@@ -50,8 +39,6 @@ If you have any questions, please contact me through the above way.
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/jynba)](https://github.com/jynba) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/jynba)](https://github.com/jynba)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/jynba)](https://gitlab.com/jynba) 
-
-
 
 <br />
 
@@ -106,18 +93,3 @@ If you have any questions, please contact me through the above way.
 </p>
 
 ⭐️ From [@jynba✌](https://github.com/jynba)
-
-<!--
-**jynba/jynba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
