@@ -2,7 +2,7 @@
 
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://cvcvcvcv.com">
+  <a href="https://blog.cvcvcvcv.com">
     <img src="./hello.svg">
   </a>
 </h1>
