@@ -15,7 +15,7 @@
 
 
 <!-- 个人介绍 -->
-welcome to my homepage , I'm Xu Jiayu😄.
+welcome to my homepage😄.
 
 If you have any questions, please contact me through the above way.
 
