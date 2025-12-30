@@ -90,6 +90,7 @@ If you have any questions, please contact me through the above way.
 <p align="center"> 
   Number of visits：👀<br /><br />
   <img src="https://profile-counter.glitch.me/jynba/count.svg" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jynba.jynba" align="center" alt="visitors">
 </p>
 
 ⭐️ From [@jynba✌](https://github.com/jynba)
